@@ -1,0 +1,5 @@
+there is a bag with two hats red and blue. everytime you pick a red hat, you add another red hat back to the bag, and everytime you pick a blue hat, you put a blue hat back to that bag. run these iterations 100 times. for every iteration print the iteration number, hat selected, the total number of hats in the bag and probability of selecting red and blue hat.
+
+there is a bag with two hats red and blue. everytime you pick a red hat, you add another blue hat back to the bag, and everytime you pick a blue hat, you put a red hat back to that bag. run these iterations 100 times. for every iteration print the iteration number, hat selected, the total number of hats in the bag and probability of selecting red and blue hat.
+
+the first one has stability of 70-30 and 2nd one is 50-50 why?
